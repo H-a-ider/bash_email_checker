@@ -1,0 +1,1 @@
+# bash_email_checker
